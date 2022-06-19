@@ -1,0 +1,48 @@
+#login{
+    border:2px groove rgba(241, 244, 247, 0.459);
+    border-radius: 8px;
+    margin-left: 39%;
+    margin-right: 36.6%;
+    padding-bottom: 5%;
+    margin-top:4%;
+    background-color: rgba(241, 244, 247, 0.329);
+}
+#text{
+    text-align: center;
+    font-size: 27px;
+    font-family:cursive;
+}
+#roll,#pass{
+    width:230px;
+    height: 35px;
+    border-radius: 8px;
+    border:2px groove rgba(174, 175, 177, 0.466);
+    margin-left: 12%;
+    background-color: rgba(247, 248, 248, 0.705);
+    
+}
+#submit{
+    
+    width:180px;
+    height:40px;
+    margin-left: 20%;
+    background-color:rgba(30, 115, 172, 0.815);
+    border:3px groove rgba(30, 115, 172, 0.986);
+    color:white;
+    font-size: larger;
+    border-radius: 8px;
+    cursor:pointer;
+}
+body{
+    background-image:repeating-radial-gradient(rgba(8, 8, 8, 0.514) ,rgba(3, 3, 3, 0.26)), url('https://presidencyuniversity.in/wp-content/uploads/2017/07/presidency-university-campus-Infrastructure.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: fixed;
+   
+}
+#logo{
+    width:80%;
+    height:120px;
+    margin-left: 10%;
+    
+}

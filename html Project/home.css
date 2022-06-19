@@ -1,0 +1,94 @@
+
+#one{
+    border:2px groove rgba(7, 7, 7, 0.459);
+    border-radius: 8px;
+    margin-left: 19%;
+    margin-right: 56.6%;
+    padding-bottom: 5%;
+    margin-top:4%;
+    background-color: rgba(241, 244, 247, 0.466);
+}
+#text{
+    text-align: center;
+    font-size: 27px;
+    font-family:cursive;
+}
+#sec,#name,#day{
+    width:230px;
+    height: 35px;
+    border-radius: 8px;
+    border:2px groove rgba(174, 175, 177, 0.466);
+    margin-left: 12%;
+    background-color: rgba(247, 248, 248, 0.705);
+    
+}
+#submit{
+    
+    width:180px;
+    height:40px;
+    margin-left: 20%;
+    background-color:rgba(30, 115, 172, 0.767);
+    border:3px groove rgba(30, 115, 172, 0.986);
+    color:white;
+    font-size: larger;
+    border-radius: 8px;
+    cursor:pointer;
+}
+body{
+    background-image:repeating-radial-gradient(#fcd290 ,#19547b), url("");
+    background-image: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#demo{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(12, 11, 11);
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    
+}
+#demo1,#demo11{
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+#logo{
+    width:80%;
+    height:120px;
+    margin-left: 10%;
+    
+}
+#display{
+    border:3px groove rgba(9, 118, 228, 0.459);
+    
+    border-radius: 8px;
+    margin-left: 55%;
+    margin-right: 10%;
+    padding-bottom: 5%;
+    margin-top:-26%;
+    background-color: rgba(241, 244, 247, 0.322);
+    height:41%;
+
+}
+#demo2{
+    font-size: 28px;
+    text-align: center;
+    color:rgb(255, 0, 0);
+
+}
+marquee{
+    color:red;
+    font-style: italic;
+    font-size: 40px;
+
+}
+#link{
+    font-size: 25px;
+    font-style: italic;
+    color:red;
+    text-decoration: none;
+    margin-top: -23%;
+}
